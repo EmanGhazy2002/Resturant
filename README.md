@@ -97,6 +97,3 @@ Before you begin, ensure you have the following requirements installed:
 
 Contributions to this project are welcome! If you have any ideas, bug fixes, or improvements, please feel free to open an issue or submit a pull request.
 
----
-
-Customize this README with specific details about your project, such as features, technologies used, prerequisites, installation steps, usage instructions, and contribution guidelines.
