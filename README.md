@@ -48,7 +48,7 @@ Before you begin, ensure you have the following requirements installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/restaurant-ordering.git
+   git clone https://github.com/EmanGhazy2002/restaurant-ordering.git
    ```
 
 2. Navigate to the project directory:
